@@ -1,0 +1,12 @@
+/Users/nonso/Documents/0xNonso/apw-ytc-tool/ytc-cli/target/debug/deps/color_eyre-27f40092de2660b0.rmeta: /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/lib.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/config.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/fmt.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/handler.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/private.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/mod.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/help.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/writers.rs
+
+/Users/nonso/Documents/0xNonso/apw-ytc-tool/ytc-cli/target/debug/deps/color_eyre-27f40092de2660b0.d: /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/lib.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/config.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/fmt.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/handler.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/private.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/mod.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/help.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/writers.rs
+
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/lib.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/config.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/fmt.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/handler.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/private.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/mod.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/section/help.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.5.11/src/writers.rs:

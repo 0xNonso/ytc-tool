@@ -1,0 +1,11 @@
+/Users/nonso/Documents/0xNonso/apw-ytc-tool/ytc-cli/target/debug/deps/owo_colors-6e5a54050e5eece3.rmeta: /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/lib.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_colors.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_styles.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/xterm.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/dynamic.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/styles.rs
+
+/Users/nonso/Documents/0xNonso/apw-ytc-tool/ytc-cli/target/debug/deps/owo_colors-6e5a54050e5eece3.d: /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/lib.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_colors.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_styles.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/xterm.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/dynamic.rs /Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/styles.rs
+
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/lib.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_colors.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/dyn_styles.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/xterm.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/colors/dynamic.rs:
+/Users/nonso/.cargo/registry/src/github.com-1ecc6299db9ec823/owo-colors-1.3.0/src/styles.rs:
