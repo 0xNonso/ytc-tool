@@ -31,7 +31,7 @@ contract ApWineYTC is IFlashLoanRecipient, ReentrancyGuard {
 
     //EVENTS
     event YieldTokenCompound(address indexed _amm, uint256 ibtIn, uint8 numOfCompounding, uint256 fytOut);
-    event LogRAmount(uint256 a);
+  
     constructor(
         address _ammRouter,
         address _vault,
@@ -69,7 +69,7 @@ contract ApWineYTC is IFlashLoanRecipient, ReentrancyGuard {
             msg.sender,
             _n
         );
-        emit LogRAmount(IERC20(_underlyingToken).balanceOf(address(this)));
+       
         if(_remainingAmount > 0) IERC20(_underlyingToken).transfer(msg.sender, _remainingAmount);
     }
 
@@ -235,11 +235,4 @@ contract ApWineYTC is IFlashLoanRecipient, ReentrancyGuard {
             IERC20(_token).approve(_to, MAX_VALUE);
     }
 
-    function _calculateSlippage() internal {}
-
-    // function _tokenBalance(address token, uint256 initialBalance, bool _flip) internal view returns(uint256){
-    //     return _flip ? 
-    //         IERC20(token).balanceOf(token).sub(initialBalance) 
-    //         : initialBalance.sub(IERC20(token).balanceOf(token));
-    // }
 }
