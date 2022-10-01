@@ -12,7 +12,7 @@ import "@balancer-labs/v2-vault/contracts/interfaces/IVault.sol";
 import "@balancer-labs/v2-vault/contracts/interfaces/IFlashLoanRecipient.sol";
 
 ///@title Yield Token Compounding using Apwine.fi
-///@author Nonso <https://github.com/0xNonso>
+///@author nonso
 contract ApWineYTC is IFlashLoanRecipient, ReentrancyGuard {
     using SafeMath for uint256;
 
@@ -30,7 +30,7 @@ contract ApWineYTC is IFlashLoanRecipient, ReentrancyGuard {
     uint256[] public tokenPath = [0,1];
 
     //EVENTS
-    event YieldTokenCompound(address indexed _amm, uint256 ibtIn, uint8 numOfCompounding, uint256 fytOut);
+    event YieldTokenCompound(address indexed _amm, uint256 underlyingIn, uint8 numOfCompounding, uint256 fytOut);
   
     constructor(
         address _ammRouter,

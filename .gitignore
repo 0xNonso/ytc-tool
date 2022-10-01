@@ -1,7 +1,11 @@
 # Compiler files
 cache/
 out/
-
+node_modules
+package.json
+.env
+.logs
+*.log
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*
